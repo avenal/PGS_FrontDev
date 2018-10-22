@@ -1,3 +1,3 @@
 # PGS_FrontDev
 
-preview:
+preview: https://avenal.github.io/PGS_FrontDev/
